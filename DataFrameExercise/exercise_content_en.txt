@@ -1,0 +1,73 @@
+🔥 Comprehensive Spark Exercises: Football Data Processing
+Objective: Practice all key Spark concepts, including I/O, Transformations (Narrow, Wide, UDFs, Window), Actions, Caching, SQL, and Schema Metadata.
+
+📌 Available Datasets:
+player_raw.csv: Player information
+score_raw.csv: Match results
+squad_raw.csv: Team information
+match_raw.csv: Match details
+🔹 Exercise 1: Read and Inspect Data
+1️⃣ Read the CSV files into DataFrames with the following conditions:
+
+Include header
+Automatically infer schema (inferSchema=True)
+Display the first 5 rows
+2️⃣ Inspect the DataFrame metadata:
+
+Print schema (printSchema())
+Get column names (columns)
+Check data types (dtypes)
+View data summary (describe())
+🔹 Exercise 2: Data Cleaning
+1️⃣ Remove rows with missing values
+2️⃣ Standardize data types (convert numbers to Integer, dates to Date, etc.)
+3️⃣ Trim extra spaces in player names and team names
+
+🔹 Exercise 3: Narrow Transformations
+1️⃣ Add new columns (withColumn)
+
+Add a season column with value "2023-2024" to all datasets
+Convert player and team names to uppercase
+2️⃣ Filter data (filter / where)
+
+Get a list of players with more than 5 goals
+Get a list of matches with more than 50,000 spectators
+3️⃣ Select and rename columns (select / alias)
+
+Extract name and nation from player_raw.csv, renaming them to player_name and country
+🔹 Exercise 4: Wide Transformations
+1️⃣ Aggregate data (groupBy + agg)
+
+Calculate the total number of goals per team
+Count the number of matches per team
+2️⃣ Join datasets (join)
+
+Merge match_raw with score_raw using match_id
+Merge player_raw with squad_raw to identify which players belong to which teams
+🔹 Exercise 5: UDFs (User Defined Functions)
+1️⃣ Create a UDF to convert country abbreviations (ENG → England, FRA → France)
+2️⃣ Create a UDF to classify players based on their goal count:
+
+>= 10 → "Superstar"
+5-9 → "Average"
+<5 → "Substitute"
+🔹 Exercise 6: Window Functions
+1️⃣ Rank players by goal count within each team (rank())
+2️⃣ Calculate the total goals per team across different match rounds (sum() + partitionBy())
+
+🔹 Exercise 7: SQL Operations
+1️⃣ Register all DataFrames as SQL tables (createOrReplaceTempView)
+2️⃣ Write SQL queries:
+
+Retrieve the players with the highest goal count
+Get the top 5 teams with the most wins
+Calculate the average number of matches each team plays
+🔹 Exercise 8: Caching & Optimization
+1️⃣ Cache a large DataFrame and measure query time before and after caching
+2️⃣ Use broadcast join to optimize a join operation between a small dataset (player_raw) and a large dataset (match_raw)
+
+📌 Instructions & Notes
+✅ Create corresponding Python files (spark_reader.py, spark_transform.py, spark_sql.py, etc.)
+✅ Test each step and validate results
+✅ Log execution time for performance comparison (time.time())
+
