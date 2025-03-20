@@ -1,15 +1,16 @@
 from pyspark.sql import SparkSession
-from datetime import datetime, date
 import pandas as pd
 from pyspark.sql import Row
-import os
-from spark_base import SparkBase
+import sys, os
+from .spark_base import SparkBase
+from .spark_reader import SparkReader
 from pyspark.sql import DataFrame
 
 
 class SparkWriter(SparkBase):
     def __init__(self):
         super().__init__()
+        self.current_dir = os.path.dirname(os.path.abspath(__file__))
 
     def write_csv(self, df: DataFrame, path):
         relative_path = os.path.join(self.current_dir, "..", "files", path)
