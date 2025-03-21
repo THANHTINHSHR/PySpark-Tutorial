@@ -7,6 +7,7 @@ from .Exercise_Base import ExerciseBase as Ex
 import os
 from pyspark.sql import DataFrame
 from .Exercise_1 import Exercise1
+from pyspark.sql.functions import regexp_replace
 
 
 # Work with score_raw.csv
@@ -22,18 +23,16 @@ class Exercise2(Ex):
     # 2️⃣ Standardize data types (convert numbers to Integer, dates to Date, etc.)
     def standardize_data_types(self, df: DataFrame) -> DataFrame:
         for col_name in df.columns:
-            if "date" in col_name.lower():
-                df = df.withColumn(col_name, split(col("Home"), " ")[0])
-            elif "score" in col_name.lower() or "rank" in col_name.lower():
-                df = df.withColumn(col_name, df[col_name].cast("int"))
+            if "season" in col_name.lower() or "attendance" in col_name.lower():
+                df = df.withColumn(
+                    col_name, regexp_replace(df[col_name], ",", "").cast("int")
+                )
         return df
 
     # 3️⃣ Trim extra spaces in score, remove special characters
     def text_standardization(self, df: DataFrame) -> DataFrame:
         for col_name in df.columns:
-            if "Home" in col_name.lower():
-                df = df.withColumn(col_name, trim(df[col_name]))
-                df = df.withColumn(col_name, split(col("Home"), " ")[0])
+            df = df.withColumn(col_name, trim(df[col_name]))
         return df
 
 

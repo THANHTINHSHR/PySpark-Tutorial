@@ -25,17 +25,17 @@ class Exercise1(Ex):
         file_path = os.path.join(self.current_dir, "..", "data_files", filename)
         return self.spark.read.csv(file_path, header=True, inferSchema=True)
 
-    def write_csv(self, df: DataFrame, path):
+    def write_csv(self, df: DataFrame, filename):
         file_path = os.path.join(self.current_dir, "..", "data_files", filename)
-        df.write.mode("overwrite").csv(relative_path, header=True)
+        df.write.mode("overwrite").csv(file_path, header=True)
 
-    def write_parquet(self, df: DataFrame, path):
+    def write_parquet(self, df: DataFrame, pafilenameth):
         file_path = os.path.join(self.current_dir, "..", "data_files", filename)
-        df.write.mode("overwrite").parquet(relative_path)
+        df.write.mode("overwrite").parquet(file_path)
 
-    def write_json(self, df: DataFrame, path):
+    def write_json(self, df: DataFrame, filename):
         file_path = os.path.join(self.current_dir, "..", "data_files", filename)
-        df.write.mode("overwrite").json(relative_path)
+        df.write.mode("overwrite").json(file_path)
 
 
 if __name__ == "__main__":
