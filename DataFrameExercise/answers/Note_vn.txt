@@ -1,0 +1,5 @@
+PySpark không hỗ trợ UDF bên trong class.
+UDF tốt nhất là gọi static method . spark không cho phép(không hiểu) dc đối tượng thuần túy python
+1️⃣ Dùng df["column name"]
+2️⃣ Dùng df.col("column name") hoặc F.col("column name") khi collumn name chứa khoảng trắng,
+ nếu không thì df.ho_va_ten cũng dc

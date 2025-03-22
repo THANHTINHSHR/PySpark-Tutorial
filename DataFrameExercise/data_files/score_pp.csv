@@ -1,0 +1,126 @@
+season,round,week,day,home,xg_home,xg_away,away,attendance,venue,referee,match_report,match_datetime,score_home,score_away
+2017,Group stage,1.0,Tue,Chelsea,2.0,0.3,Qarabağ,41150,Stamford Bridge,Tasos Sidiropoulos,0f310e33,2017-09-12 01:45:00,6,0
+2017,Group stage,1.0,Tue,Celtic,0.4,2.5,Paris S-G,57562,Celtic Park,Daniele Orsato,855684cf,2017-09-12 01:45:00,0,5
+2017,Group stage,1.0,Tue,Manchester Utd,3.4,0.6,Basel,73854,Old Trafford,Ruddy Buquet,a27a806e,2017-09-12 01:45:00,3,0
+2017,Group stage,1.0,Tue,Benfica,2.1,1.6,CSKA Moscow,38323,Estádio do Sport Lisboa e Benfica,Alberto Undiano,cbbb5b20,2017-09-12 01:45:00,1,2
+2017,Group stage,1.0,Tue,Roma,0.5,2.4,Atlético Madrid,36064,Stadio Olimpico,Milorad Mažić,4414b952,2017-09-12 01:45:00,0,0
+2017,Group stage,1.0,Tue,Barcelona,0.9,0.7,Juventus,78656,Camp Nou,Damir Skomina,9badc434,2017-09-12 01:45:00,3,0
+2017,Group stage,1.0,Tue,Bayern Munich,4.2,0.8,Anderlecht,70000,Allianz Arena,Paolo Tagliavento,be4af035,2017-09-12 01:45:00,3,0
+2017,Group stage,1.0,Tue,Olympiacos,1.1,2.6,Sporting CP,30168,Stadio Georgios Karaiskáki,Viktor Kassai,b5bad8aa,2017-09-12 01:45:00,2,3
+2017,Group stage,1.0,Wed,Porto,1.5,0.9,Beşiktaş,42429,Estádio Do Dragão,Anthony Taylor,48b4bd06,2017-09-13 01:45:00,1,3
+2017,Group stage,1.0,Wed,Liverpool,2.4,1.2,Sevilla,52332,Anfield,Danny Makkelie,9528d840,2017-09-13 01:45:00,2,2
+2017,Group stage,1.0,Wed,Tottenham,1.2,0.8,Dortmund,67343,Wembley Stadium,Gianluca Rocchi,ab1ad65c,2017-09-13 01:45:00,3,1
+2017,Group stage,1.0,Wed,NK Maribor,1.1,1.8,Spartak Moscow,12566,Ljudski vrt,Deniz Aytekin,6f1c5701,2017-09-13 01:45:00,1,1
+2017,Group stage,1.0,Wed,Feyenoord,0.3,1.3,Manchester City,43500,Stadion Feijenoord,Szymon Marciniak,7bff5ce6,2017-09-13 01:45:00,0,4
+2017,Group stage,1.0,Wed,RB Leipzig,0.9,1.1,Monaco,40068,Red Bull Arena,Michael Oliver,8b5cb1bc,2017-09-13 01:45:00,1,1
+2017,Group stage,1.0,Wed,Real Madrid,3.9,0.2,APOEL FC,71060,Estadio Santiago Bernabéu,Benoît Bastien,fd3ebb28,2017-09-13 01:45:00,3,0
+2017,Group stage,1.0,Wed,Shakhtar,1.4,1.9,Napoli,32679,L'viv Arena,Felix Zwayer,0159736c,2017-09-13 01:45:00,2,1
+2017,Group stage,2.0,Tue,Manchester City,3.2,0.5,Shakhtar,45310,Academy Stadium,Jorge de Sousa,a9d00ea8,2017-09-26 01:45:00,2,0
+2017,Group stage,2.0,Tue,Sevilla,3.9,0.4,NK Maribor,34705,Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakov,27a54c3e,2017-09-26 01:45:00,3,0
+2017,Group stage,2.0,Tue,Dortmund,1.2,3.2,Real Madrid,65849,Signal Iduna Park,Björn Kuipers,2c58d390,2017-09-26 01:45:00,1,3
+2017,Group stage,2.0,Tue,Monaco,0.6,2.9,Porto,11703,Stade Louis II,Slavko Vinčić,47ab800e,2017-09-26 01:45:00,0,3
+2017,Group stage,2.0,Tue,Napoli,0.9,1.6,Feyenoord,22577,Stadio San Paolo,William Collum,68d31e1c,2017-09-26 01:45:00,3,1
+2017,Group stage,2.0,Tue,Spartak Moscow,0.2,2.8,Liverpool,43376,Otkrytie Arena,Clément Turpin,40930cdb,2017-09-26 01:45:00,1,1
+2017,Group stage,2.0,Tue,Beşiktaş,1.0,1.1,RB Leipzig,36641,Vodafone Arena,Sergey Karasev,99045b59,2017-09-26 01:45:00,2,0
+2017,Group stage,2.0,Tue,APOEL FC,1.0,1.8,Tottenham,16324,Neo GSP,Pavel Královec,e0532f21,2017-09-26 01:45:00,0,3
+2017,Group stage,2.0,Thu,CSKA Moscow,0.6,4.3,Manchester Utd,29073,Stadion CSKA,Jonas Eriksson,f6e20683,2017-09-28 01:45:00,1,4
+2017,Group stage,2.0,Wed,Sporting CP,0.7,0.9,Barcelona,48575,Estádio José Alvalade,Ovidiu Hațegan,14e9aad9,2017-09-27 01:45:00,0,1
+2017,Group stage,2.0,Wed,Qarabağ,0.9,1.9,Roma,67200,Bakı Olimpiya Stadionu,Artur Soares Dias,e5d01fff,2017-09-27 23:00:00,1,2
+2017,Group stage,2.0,Wed,Atlético Madrid,1.4,2.5,Chelsea,60643,Estadio Wanda Metropolitano,Cüneyt Çakιr,1df64d2e,2017-09-27 01:45:00,1,2
+2017,Group stage,2.0,Wed,Juventus,2.3,0.5,Olympiacos,33460,Allianz Stadium,Tobias Stieler,2665036e,2017-09-27 01:45:00,2,0
+2017,Group stage,2.0,Wed,Basel,3.2,0.4,Benfica,34111,St. Jakob-Park,Craig Thomson,8985adaa,2017-09-27 01:45:00,5,0
+2017,Group stage,2.0,Wed,Paris S-G,2.0,1.0,Bayern Munich,46252,Parc des Princes,Antonio Matéu Lahoz,af194ea3,2017-09-27 01:45:00,3,0
+2017,Group stage,2.0,Wed,Anderlecht,0.6,1.2,Celtic,19898,Stade Constant Vanden Stock,Jesús Gil,d4759e88,2017-09-27 01:45:00,0,3
+2017,Group stage,3.0,Tue,Manchester City,2.7,2.2,Napoli,48520,Etihad Stadium,Antonio Matéu Lahoz,81806683,2017-10-17 01:45:00,2,1
+2017,Group stage,3.0,Tue,Feyenoord,1.6,1.3,Shakhtar,43500,Stadion Feijenoord,Alberto Undiano,27bb60f5,2017-10-17 01:45:00,1,2
+2017,Group stage,3.0,Tue,Monaco,0.7,1.2,Beşiktaş,7403,Stade Louis II,Milorad Mažić,2f23aaa2,2017-10-17 01:45:00,1,2
+2017,Group stage,3.0,Tue,RB Leipzig,2.5,1.1,Porto,41496,Red Bull Arena,Paolo Tagliavento,8ed0b9c6,2017-10-17 01:45:00,3,2
+2017,Group stage,3.0,Tue,Real Madrid,2.9,0.9,Tottenham,76589,Estadio Santiago Bernabéu,Szymon Marciniak,971e1bcb,2017-10-17 01:45:00,1,1
+2017,Group stage,3.0,Tue,NK Maribor,0.4,4.6,Liverpool,12506,Ljudski vrt,Viktor Kassai,d40c6462,2017-10-17 01:45:00,0,7
+2017,Group stage,3.0,Tue,Spartak Moscow,1.7,1.3,Sevilla,44307,Otkrytie Arena,Gianluca Rocchi,7e9678c0,2017-10-17 01:45:00,5,1
+2017,Group stage,3.0,Tue,APOEL FC,1.0,2.1,Dortmund,15604,Neo GSP,Aliaksei Kulbakov,d541dc1c,2017-10-17 01:45:00,1,1
+2017,Group stage,3.0,Wed,Benfica,0.5,0.6,Manchester Utd,57684,Estádio do Sport Lisboa e Benfica,Felix Zwayer,18d65101,2017-10-18 01:45:00,0,1
+2017,Group stage,3.0,Wed,Chelsea,1.6,1.6,Roma,41105,Stamford Bridge,Damir Skomina,d2152a99,2017-10-18 01:45:00,3,3
+2017,Group stage,3.0,Wed,Qarabağ,0.4,1.9,Atlético Madrid,47923,Bakı Olimpiya Stadionu,Ruddy Buquet,0787409b,2017-10-18 23:00:00,0,0
+2017,Group stage,3.0,Wed,Barcelona,3.5,0.2,Olympiacos,55026,Camp Nou,William Collum,395e54ba,2017-10-18 01:45:00,3,1
+2017,Group stage,3.0,Wed,Anderlecht,1.2,3.3,Paris S-G,19108,Stade Constant Vanden Stock,Pavel Královec,47249c92,2017-10-18 01:45:00,0,4
+2017,Group stage,3.0,Wed,Bayern Munich,3.2,0.6,Celtic,70000,Allianz Arena,Sergey Karasev,aae24353,2017-10-18 01:45:00,3,0
+2017,Group stage,3.0,Wed,Juventus,1.5,0.5,Sporting CP,36288,Allianz Stadium,Michael Oliver,ba457cfb,2017-10-18 01:45:00,2,1
+2017,Group stage,3.0,Wed,CSKA Moscow,0.4,1.4,Basel,27996,VEB Arena,Björn Kuipers,5222ac12,2017-10-18 01:45:00,0,2
+2017,Group stage,4.0,Tue,Celtic,1.4,0.7,Bayern Munich,58269,Celtic Park,Danny Makkelie,2eb85b86,2017-10-31 02:45:00,1,2
+2017,Group stage,4.0,Tue,Sporting CP,0.5,2.0,Juventus,48442,Estádio José Alvalade,Clément Turpin,a6b23984,2017-10-31 02:45:00,1,1
+2017,Group stage,4.0,Tue,Manchester Utd,2.7,0.9,Benfica,74437,Old Trafford,Gediminas Mažeika,c810fb4b,2017-10-31 02:45:00,2,0
+2017,Group stage,4.0,Tue,Paris S-G,2.6,0.2,Anderlecht,46403,Parc des Princes,David Fernández,0cb548c7,2017-10-31 02:45:00,5,0
+2017,Group stage,4.0,Tue,Atlético Madrid,3.2,0.2,Qarabağ,55893,Estadio Wanda Metropolitano,Deniz Aytekin,0e2c3dc9,2017-10-31 02:45:00,1,1
+2017,Group stage,4.0,Tue,Roma,1.5,1.3,Chelsea,55036,Stadio Olimpico,Jonas Eriksson,2cb50eb1,2017-10-31 02:45:00,3,0
+2017,Group stage,4.0,Tue,Basel,1.2,1.3,CSKA Moscow,33303,St. Jakob-Park,Milorad Mažić,924e877d,2017-10-31 02:45:00,1,2
+2017,Group stage,4.0,Tue,Olympiacos,0.3,1.8,Barcelona,31600,Stadio Georgios Karaiskáki,Anthony Taylor,64b8250b,2017-10-31 02:45:00,0,0
+2017,Group stage,4.0,Wed,Tottenham,2.3,2.2,Real Madrid,83782,Wembley Stadium,Cüneyt Çakιr,21830d60,2017-11-01 02:45:00,3,1
+2017,Group stage,4.0,Wed,Porto,1.8,0.6,RB Leipzig,41616,Estádio Do Dragão,Ovidiu Hațegan,224f1452,2017-11-01 02:45:00,3,1
+2017,Group stage,4.0,Wed,Liverpool,2.7,0.3,NK Maribor,47957,Anfield,Ivan Kružliak,4fb0cded,2017-11-01 02:45:00,3,0
+2017,Group stage,4.0,Wed,Beşiktaş,1.3,1.0,Monaco,39346,Vodafone Arena,Paolo Tagliavento,d1c24fd4,2017-11-01 00:00:00,1,1
+2017,Group stage,4.0,Wed,Sevilla,0.9,1.2,Spartak Moscow,38002,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias,31775054,2017-11-01 02:45:00,2,1
+2017,Group stage,4.0,Wed,Dortmund,2.8,0.6,APOEL FC,64500,Fußballpark BVB Hohenbuschei,Matej Jug,35b4cf49,2017-11-01 02:45:00,1,1
+2017,Group stage,4.0,Wed,Napoli,2.1,1.4,Manchester City,44483,Stadio San Paolo,Felix Brych,cdd83951,2017-11-01 02:45:00,2,4
+2017,Group stage,4.0,Wed,Shakhtar,2.6,1.0,Feyenoord,24570,Oblasny SportKomplex Metalist,Tasos Sidiropoulos,aeb0dd2c,2017-11-01 02:45:00,3,1
+2017,Group stage,5.0,Tue,Manchester City,1.3,0.3,Feyenoord,43548,Etihad Stadium,Ivan Kružliak,7b0e879a,2017-11-21 02:45:00,1,0
+2017,Group stage,5.0,Tue,Beşiktaş,0.7,0.7,Porto,36919,Vodafone Arena,Antonio Matéu Lahoz,93dc4350,2017-11-21 00:00:00,1,1
+2017,Group stage,5.0,Tue,Spartak Moscow,1.4,1.2,NK Maribor,42920,Otkrytie Arena,William Collum,bdfd629a,2017-11-21 00:00:00,1,1
+2017,Group stage,5.0,Tue,Sevilla,1.9,2.3,Liverpool,39495,Estadio Ramón Sánchez Pizjuán,Felix Brych,06b7ba00,2017-11-21 02:45:00,3,3
+2017,Group stage,5.0,Tue,Napoli,1.9,0.5,Shakhtar,10573,Stadio San Paolo,Damir Skomina,0b2ff06a,2017-11-21 02:45:00,3,0
+2017,Group stage,5.0,Tue,Dortmund,1.1,1.1,Tottenham,65849,Signal Iduna Park,Clément Turpin,9e4e2580,2017-11-21 02:45:00,1,2
+2017,Group stage,5.0,Tue,Monaco,0.8,1.5,RB Leipzig,9029,Stade Louis II,Alberto Undiano,f71119db,2017-11-21 02:45:00,1,4
+2017,Group stage,5.0,Tue,APOEL FC,0.5,3.7,Real Madrid,19705,Neo GSP,Artur Soares Dias,6da6de2c,2017-11-21 02:45:00,0,6
+2017,Group stage,5.0,Wed,Sporting CP,2.0,0.4,Olympiacos,42528,Estádio José Alvalade,Felix Zwayer,476e861f,2017-11-22 02:45:00,3,1
+2017,Group stage,5.0,Wed,CSKA Moscow,1.0,1.0,Benfica,27709,VEB Arena,Deniz Aytekin,58d664dd,2017-11-22 00:00:00,2,0
+2017,Group stage,5.0,Wed,Juventus,0.5,0.9,Barcelona,40876,Allianz Stadium,Milorad Mažić,01d41d2e,2017-11-22 02:45:00,0,0
+2017,Group stage,5.0,Wed,Basel,1.1,1.5,Manchester Utd,36000,St. Jakob-Park,Daniele Orsato,509fe222,2017-11-22 02:45:00,1,0
+2017,Group stage,5.0,Wed,Anderlecht,1.8,2.2,Bayern Munich,19753,Stade Constant Vanden Stock,Anthony Taylor,8082f4d0,2017-11-22 02:45:00,1,2
+2017,Group stage,5.0,Wed,Paris S-G,2.8,0.3,Celtic,46288,Parc des Princes,Tasos Sidiropoulos,cc6cbd90,2017-11-22 02:45:00,7,1
+2017,Group stage,5.0,Wed,Atlético Madrid,1.4,0.5,Roma,56253,Estadio Wanda Metropolitano,Björn Kuipers,f32e5d65,2017-11-22 02:45:00,2,0
+2017,Group stage,5.0,Wed,Qarabağ,0.2,3.9,Chelsea,67100,Bakı Olimpiya Stadionu,Jorge de Sousa,c03452c3,2017-11-22 00:00:00,0,4
+2017,Group stage,6.0,Tue,Chelsea,2.9,1.0,Atlético Madrid,40875,Stamford Bridge,Danny Makkelie,1998dd31,2017-12-05 02:45:00,1,1
+2017,Group stage,6.0,Tue,Celtic,0.8,0.7,Anderlecht,57931,Celtic Park,Matej Jug,379b4447,2017-12-05 02:45:00,0,1
+2017,Group stage,6.0,Tue,Manchester Utd,2.9,0.8,CSKA Moscow,74669,Old Trafford,Gianluca Rocchi,66d0083b,2017-12-05 02:45:00,2,1
+2017,Group stage,6.0,Tue,Benfica,1.4,1.4,Basel,22470,Estádio do Sport Lisboa e Benfica,Jesús Gil,e4e1ffe5,2017-12-05 02:45:00,0,2
+2017,Group stage,6.0,Tue,Barcelona,1.2,1.0,Sporting CP,48336,Camp Nou,Craig Thomson,17adc8d4,2017-12-05 02:45:00,2,0
+2017,Group stage,6.0,Tue,Roma,1.9,0.4,Qarabağ,34258,Stadio Olimpico,Tobias Stieler,650bd686,2017-12-05 02:45:00,1,0
+2017,Group stage,6.0,Tue,Bayern Munich,1.8,1.9,Paris S-G,70000,Allianz Arena,Cüneyt Çakιr,a85a1960,2017-12-05 02:45:00,3,1
+2017,Group stage,6.0,Tue,Olympiacos,1.0,1.5,Juventus,29567,Stadio Georgios Karaiskáki,David Fernández,9d8cdd1c,2017-12-05 02:45:00,0,2
+2017,Group stage,6.0,Wed,Tottenham,2.3,0.6,APOEL FC,42679,Wembley Stadium,Slavko Vinčić,24867db8,2017-12-06 02:45:00,3,0
+2017,Group stage,6.0,Wed,Porto,1.9,1.7,Monaco,42509,Estádio Do Dragão,Jonas Eriksson,a061be65,2017-12-06 02:45:00,5,2
+2017,Group stage,6.0,Wed,Liverpool,4.2,0.6,Spartak Moscow,48779,Anfield,Szymon Marciniak,f29c456d,2017-12-06 02:45:00,7,0
+2017,Group stage,6.0,Wed,RB Leipzig,3.0,1.8,Beşiktaş,42558,Red Bull Arena,Viktor Kassai,5b3b51d4,2017-12-06 02:45:00,1,2
+2017,Group stage,6.0,Wed,Feyenoord,0.7,1.3,Napoli,36500,Stadion Feijenoord,Michael Oliver,6bc20ec5,2017-12-06 02:45:00,2,1
+2017,Group stage,6.0,Wed,NK Maribor,0.8,1.7,Sevilla,11976,Ljudski vrt,Ovidiu Hațegan,6c13565f,2017-12-06 02:45:00,1,1
+2017,Group stage,6.0,Wed,Real Madrid,2.7,1.7,Dortmund,73323,Estadio Santiago Bernabéu,Pavel Královec,d452d633,2017-12-06 02:45:00,3,2
+2017,Group stage,6.0,Wed,Shakhtar,1.7,1.7,Manchester City,33154,Oblasny SportKomplex Metalist,Benoît Bastien,78553112,2017-12-06 02:45:00,2,1
+2017,Round of 16,,Tue,Basel,1.0,0.7,Manchester City,36000,St. Jakob-Park,Jonas Eriksson,8d69f9ef,2018-02-13 02:45:00,0,4
+2017,Round of 16,,Tue,Juventus,2.5,1.8,Tottenham,41232,Allianz Stadium,Felix Brych,defe3968,2018-02-13 02:45:00,2,2
+2017,Round of 16,,Wed,Porto,0.5,2.6,Liverpool,47718,Estádio Do Dragão,Daniele Orsato,aa5247eb,2018-02-14 02:45:00,0,5
+2017,Round of 16,,Wed,Real Madrid,2.4,1.0,Paris S-G,78158,Estadio Ramón Sánchez Pizjuán,Gianluca Rocchi,9ec5ce7a,2018-02-14 02:45:00,3,1
+2017,Round of 16,,Tue,Chelsea,0.5,0.6,Barcelona,37741,Stamford Bridge,Cüneyt Çakιr,e29357ad,2018-02-20 02:45:00,1,1
+2017,Round of 16,,Tue,Bayern Munich,4.9,0.3,Beşiktaş,70000,Allianz Arena,Ovidiu Hațegan,43d0aecf,2018-02-20 02:45:00,5,0
+2017,Round of 16,,Wed,Sevilla,2.0,0.7,Manchester Utd,39725,Estadio Ramón Sánchez Pizjuán,Clément Turpin,d3970c11,2018-02-21 02:45:00,0,0
+2017,Round of 16,,Wed,Shakhtar,1.7,1.8,Roma,35124,Oblasny SportKomplex Metalist,William Collum,48f88082,2018-02-21 02:45:00,2,1
+2017,Round of 16,,Tue,Liverpool,1.6,0.6,Porto,48768,Anfield,Felix Zwayer,a4c4c6cc,2018-03-06 02:45:00,0,0
+2017,Round of 16,,Tue,Paris S-G,1.1,2.2,Real Madrid,46585,Parc des Princes,Felix Brych,9bdff23e,2018-03-06 02:45:00,1,2
+2017,Round of 16,,Wed,Tottenham,1.7,1.5,Juventus,84010,Wembley Stadium,Szymon Marciniak,19a6e95f,2018-03-07 02:45:00,1,2
+2017,Round of 16,,Wed,Manchester City,1.6,0.6,Basel,49411,Etihad Stadium,Pavel Královec,35540190,2018-03-07 02:45:00,1,2
+2017,Round of 16,,Tue,Manchester Utd,1.9,1.7,Sevilla,74909,Old Trafford,Danny Makkelie,c794989a,2018-03-13 02:45:00,1,2
+2017,Round of 16,,Tue,Roma,0.7,0.2,Shakhtar,47693,Stadio Olimpico,Alberto Undiano,7d227d55,2018-03-13 02:45:00,1,0
+2017,Round of 16,,Wed,Beşiktaş,1.2,2.1,Bayern Munich,36885,Vodafone Arena,Michael Oliver,db080732,2018-03-14 00:00:00,1,3
+2017,Round of 16,,Wed,Barcelona,1.0,0.7,Chelsea,97183,Camp Nou,Damir Skomina,37029ff4,2018-03-14 02:45:00,3,0
+2017,Quarter-finals,,Tue,Sevilla,0.9,1.4,Bayern Munich,40635,Estadio Ramón Sánchez Pizjuán,Daniele Orsato,0c836452,2018-04-03 01:45:00,1,2
+2017,Quarter-finals,,Tue,Juventus,1.6,3.1,Real Madrid,40849,Allianz Stadium,Cüneyt Çakιr,4f057387,2018-04-03 01:45:00,0,3
+2017,Quarter-finals,,Wed,Liverpool,1.6,0.6,Manchester City,50685,Anfield,Felix Brych,7f1b8f75,2018-04-04 01:45:00,3,0
+2017,Quarter-finals,,Wed,Barcelona,1.9,1.7,Roma,90106,Camp Nou,Danny Makkelie,ed570f1a,2018-04-04 01:45:00,4,1
+2017,Quarter-finals,,Tue,Manchester City,1.2,0.8,Liverpool,53461,Etihad Stadium,Antonio Matéu Lahoz,d838d566,2018-04-10 01:45:00,1,2
+2017,Quarter-finals,,Tue,Roma,2.7,0.9,Barcelona,56580,Stadio Olimpico,Clément Turpin,facc75fa,2018-04-10 01:45:00,3,0
+2017,Quarter-finals,,Wed,Bayern Munich,1.2,0.6,Sevilla,70000,Allianz Arena,William Collum,215e3753,2018-04-11 01:45:00,0,0
+2017,Quarter-finals,,Wed,Real Madrid,2.7,2.7,Juventus,75796,Estadio Santiago Bernabéu,Michael Oliver,ef2140d3,2018-04-11 01:45:00,1,3
+2017,Semi-finals,,Tue,Liverpool,3.7,1.9,Roma,51236,Anfield,Felix Brych,a2f4d0d5,2018-04-24 01:45:00,5,2
+2017,Semi-finals,,Wed,Bayern Munich,1.9,0.7,Real Madrid,70000,Allianz Arena,Björn Kuipers,f5ca2565,2018-04-25 01:45:00,1,2
+2017,Semi-finals,,Tue,Real Madrid,1.8,3.0,Bayern Munich,77459,Estadio Santiago Bernabéu,Cüneyt Çakιr,38beee5e,2018-05-01 01:45:00,2,2
+2017,Semi-finals,,Wed,Roma,2.4,1.6,Liverpool,61889,Stadio Olimpico,Damir Skomina,089590e2,2018-05-02 01:45:00,4,2
+2017,Final,,Sat,Real Madrid,1.5,1.9,Liverpool,61561,NSK Olimpijs'kyj (Neutral Site),Milorad Mažić,8f71b212,2018-05-26 01:45:00,3,1
